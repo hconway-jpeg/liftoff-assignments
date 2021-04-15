@@ -19,7 +19,7 @@ including but not limited to:
 - a place to track chemical/equipment inventory
 - a place to share lab research and research of interest
 - a means of storing protocols and other lab documents
-Stop forgetting usernames and passwords for 8 different lab-related websites and just choose LABrador!git
+Stop forgetting usernames and passwords for 8 different lab-related websites and just choose LABrador!
 
 ### Features
 -Login
